@@ -12,6 +12,9 @@
 # ignore jupyter notebook checkpoint
 .ipynb_checkpoints/
 
+# ignore pycache
+__pycache__/
+
 # ignore nohup output
 nohup.out
 
