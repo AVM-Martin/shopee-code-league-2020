@@ -1,0 +1,3 @@
+[submodule "02_product_detection"]
+	path = 02_product_detection
+	url = git@github.com:mikechrist21/ProductDetectionShopeeCodeLeague.git
