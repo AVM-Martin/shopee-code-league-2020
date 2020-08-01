@@ -1,0 +1,22 @@
+# ignore all files without extension
+*
+!*.*
+!*/
+
+# un-ignore important directory
+!.github/*
+
+# un-ignore LICENSE file
+!LICENSE
+
+# ignore jupyter notebook checkpoint
+.ipynb_checkpoints/
+
+# ignore nohup output
+nohup.out
+
+# ignore additional directory
+dataset/*
+epoch_model/*
+model/*
+result/*
