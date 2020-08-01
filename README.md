@@ -1,6 +1,6 @@
 # [Shopee Code League 2020](https://careers.shopee.sg/codeleague/)
 ## The Largest Code from Home League in the Region!
-## 8 June to 8 August 2020
+### 8 June to 8 August 2020
 
 Shopee Code League is a 2-month online coding challenge consisting of a series of competitions, online algorithm questions and online training workshops open to all students and professionals across the region.
 
@@ -8,8 +8,6 @@ The competitions are specially designed by the Shopee tech teams.
 
 
 # Invictus
-
-## Team Member
 
 <table>
   <tr>
