@@ -16,7 +16,7 @@
 nohup.out
 
 # ignore additional directory
-dataset/*
-epoch_model/*
-model/*
-result/*
+dataset/
+epoch_model/
+model/
+result/
