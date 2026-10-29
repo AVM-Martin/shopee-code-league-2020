@@ -18,14 +18,14 @@ The competitions are specially designed by the Shopee tech teams.
       </a>
     </td>
     <td align="center">
-      <a href="https://AVM-Martin.my.id/">
+      <a href="https://github.com/AVM-Martin">
         <img src="https://github.com/AVM-Martin.png" width="100px;" alt=""/><br />
         <sub><b>Andreas Martin</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/ghost/">
-        <img src="https://github.com/ghost.png" width="100px;" alt=""/><br />
+      <a href="https://github.com/christyyy-a">
+        <img src="https://github.com/christyyy-a.png" width="100px;" alt=""/><br />
         <sub><b>Christy Alverina</b></sub>
       </a>
     </td>
